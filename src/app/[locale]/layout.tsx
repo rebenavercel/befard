@@ -6,6 +6,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { routing } from "@/i18n/routing";
 import { notFound } from "next/navigation";
 import { cn } from "@/lib/utils";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 interface IRootLayoutProps {
   children: ReactNode;
@@ -13,7 +14,6 @@ interface IRootLayoutProps {
     locale: string;
   }>;
 }
-
 
 export default async function RootLayout({
   children,
@@ -30,6 +30,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
+      <GoogleTagManager gtmId="GTM-PTBQZD" />
       <body className={cn(fonts, "antialiased")}>
         <NextIntlClientProvider messages={messages}>
           {children}

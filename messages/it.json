@@ -1,0 +1,130 @@
+{
+  "Common": {
+    "hello": "Ciao mondo",
+    "readNow": "Leggi di più",
+    "checkNow": "Controlla ora",
+    "sitemap": "Mappa del sito",
+    "popular": "Popolare",
+    "homepage": "Homepage",
+    "aboutUs": "Chi siamo",
+    "services": "Servizi",
+    "support": "Supporto",
+    "distributors": "Distributori",
+    "products": "Prodotti",
+    "categories": "Categorie",
+    "blog": "Blog",
+    "sectors": "Settori",
+    "contact": "Contatto",
+    "logo": "Logo",
+    "language": "Lingua",
+    "copyright": "COPYRIGHTS BY BEFARD 2025. TUTTI I DIRITTI RISERVATI.",
+    "privacyAndCookies": "Privacy Policy and Cookies",
+    "createdBy": "Creato da",
+    "downloadSheet": "Scarica il datasheet",
+    "rent": "Affitto",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Ciao, contattami",
+    "initialProductMessage": "Ciao, contattami per il prodotto ",
+    "contactWithWhatsApp": "Contattami tramite WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Homepage",
+    "aboutUs": "Chi siamo",
+    "services": "Servizi",
+    "support": "Supporto",
+    "distributors": "Distributori",
+    "products": "Prodotti",
+    "categories": "Categorie",
+    "blog": "Blog",
+    "sectors": "Settori",
+    "contact": "Contatto",
+    "logo": "Logo",
+    "language": "Lingua",
+    "rent": "Affitto"
+  },
+  "Categories": {
+    "header": "Categorie",
+    "header_text": "Dispositivi di sollevamento e manipolatori"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "Dispositivi <red>di sollevamento</red> e manipolatori",
+      "checkAll": "tutte le categorie",
+      "categories": "Categorie"
+    },
+    "Products": {
+      "products": "Prodotti",
+      "discover": "Scopri i nostri prodotti",
+      "checkAll": "tutti i prodotti",
+      "categories": "Categorie"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Notizie <red>fresh</red> da Befard",
+      "allNews": "tutte le notizie"
+    }
+  },
+  "Contact": {
+    "contact": "Contatto",
+    "header": "Contattaci <red>ora</red>",
+    "name": "Nome",
+    "email": "Indirizzo email",
+    "phone": "Telefono",
+    "message": "Messaggio",
+    "rules": "Ho letto la Privacy Policy e l'accoro esplicitamente",
+    "send": "Invia messaggio",
+    "nameValidation": "Il tuo nome deve avere almeno due caratteri",
+    "emailValidation": "Il tuo indirizzo email deve avere almeno 3 caratteri",
+    "phoneValidation": "Il tuo numero di telefono deve avere almeno 9 caratteri",
+    "messageValidation": "Il tuo messaggio deve avere almeno 10 caratteri",
+    "rulesValidation": "Devi accettare la privacy policy",
+    "yourName": "Il tuo nome",
+    "yourEmail": "Il tuo indirizzo email",
+    "yourPhone": "Il tuo numero di telefono",
+    "yourMessage": "Il tuo messaggio",
+    "findUs": "Trova noi!",
+    "writeUsWhatsApp": "Scrivi a noi su WhatsApp",
+    "writeMessageWhatsApp": "Scrivi un messaggio",
+    "initialMessageWhatsApp": "Ciao! 🤝 \nCome possiamo aiutarti? ",
+    "contactWithWhatsApp": "Contattami tramite WhatsApp",
+    "initialLinkMessage": "Ciao, contattami",
+    "ourTeam": "Il nostro team"
+  },
+  "News": {
+    "contentText": "Table of Contents",
+    "seeMore": "Vedi di più",
+    "readMore": "Leggi di più"
+  },
+  "Product": {
+    "specification": "Specifiche",
+    "seeAlso": "Vedi di più",
+    "readMore": "Leggi di più",
+    "moreQuestions": "Hai altre domande?",
+    "contactNow": "Contattaci ora!",
+    "technicalImages": "Disegni tecnici"
+  },
+  "Reviews": {
+    "header": "Recensioni su Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "I nostri prodotti"
+  },
+  "Service": {
+    "header": "Servizio",
+    "prefix": "Servizio"
+  },
+  "Support": {
+    "header": "Supporto",
+    "prefix": "Supporto"
+  },
+  "Rent": {
+    "header": "Affitto"
+  }
+}

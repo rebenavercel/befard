@@ -1,0 +1,130 @@
+{
+  "Common": {
+    "hello": "Ahoj svet",
+    "readNow": "Čítaj viac",
+    "sitemap": "Mapa stránok",
+    "checkNow": "Kontrolujte teraz",
+    "popular": "Populárne",
+    "homepage": "Hlavná stránka",
+    "aboutUs": "O nás",
+    "services": "Servis",
+    "support": "Podpora",
+    "distributors": "Distribútori",
+    "products": "Produkty",
+    "categories": "Kategórie",
+    "blog": "Blog",
+    "sectors": "Sektory",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Jazyk",
+    "copyright": "COPYRIGHT BY BEFARD 2025. VŠETKY PRÁVA VYHRADENÉ.",
+    "privacyAndCookies": "Zásady ochrany osobných údajov a cookies",
+    "createdBy": "Vytvorené",
+    "downloadSheet": "Stiahnuť dátový list",
+    "rent": "Prenájom",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "initialProductMessage": "Witam, proszę o kontakt w sprawie produktu ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Hlavná stránka",
+    "aboutUs": "O nás",
+    "services": "Servis",
+    "support": "Podpora",
+    "distributors": "Distribútori",
+    "products": "Produkty",
+    "categories": "Kategórie",
+    "blog": "Blog",
+    "sectors": "Sektory",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Jazyk",
+    "rent": "Prenájom"
+  },
+  "Categories": {
+    "header": "Kategórie",
+    "header_text": "Zdvihacie zariadenia a manipulátory"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "Zdvihacie <red>zariadenia</red> a manipulátory",
+      "checkAll": "všetky kategórie",
+      "categories": "Kategórie"
+    },
+    "Products": {
+      "products": "Produkty",
+      "discover": "Objavte naše produkty",
+      "checkAll": "všetky produkty",
+      "categories": "Kategórie"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Čerstvé <red>správy</red> od Befard",
+      "allNews": "všetky správy"
+    }
+  },
+  "Contact": {
+    "contact": "Kontakt",
+    "header": "Kontaktujte <red>nás</red> teraz",
+    "name": "Meno",
+    "email": "Emailová adresa",
+    "phone": "Telefón",
+    "message": "Správa",
+    "rules": "Prečítal som si Zásady ochrany osobných údajov a výslovne ich prijímam",
+    "send": "Odoslať správu",
+    "nameValidation": "Vaše meno musí mať minimálne dva znaky",
+    "emailValidation": "Váš email musí mať minimálne 3 znaky",
+    "phoneValidation": "Vaše telefónne číslo musí mať minimálne 9 znakov",
+    "messageValidation": "Vaša správa musí mať minimálne 10 znakov",
+    "rulesValidation": "Musíte prijať zásady ochrany osobných údajov",
+    "yourName": "Vaše meno",
+    "yourEmail": "Vaša emailová adresa",
+    "yourPhone": "Vaše telefónne číslo",
+    "yourMessage": "Vaša správa",
+    "findUs": "Nájdite nás!",
+    "writeUsWhatsApp": "Napisz do nas na WhatsApp",
+    "writeMessageWhatsApp": "Napisz wiadomość",
+    "initialMessageWhatsApp": "Witaj! 🤝 \nJak Ci możemy pomóc? ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "ourTeam": "Náš tím"
+  },
+  "News": {
+    "contentText": "Obsah",
+    "seeMore": "Zobraziť viac",
+    "readMore": "Čítaj viac"
+  },
+  "Product": {
+    "specification": "Špecifikácia",
+    "seeAlso": "Zobraziť viac",
+    "readMore": "Čítaj viac",
+    "moreQuestions": "Máte viac otázok?",
+    "contactNow": "Kontaktujte nás teraz!",
+    "technicalImages": "Technické výkresy"
+  },
+  "Reviews": {
+    "header": "Recenzie o Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "Naše produkty"
+  },
+  "Service": {
+    "header": "Servis",
+    "prefix": "Servis"
+  },
+  "Support": {
+    "header": "Podpora",
+    "prefix": "Podpora"
+  },
+  "Rent": {
+    "header": "Prenájom"
+  }
+}

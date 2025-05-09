@@ -1,0 +1,31 @@
+import { LucideProps } from "lucide-react";
+
+const Sectors = (props: LucideProps) => {
+  return (
+    <svg
+      width="100%"
+      height="100%"
+      viewBox="0 0 16 16"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        d="M10.1767 6H12.8235C13.6184 6 14.1811 5.22929 13.9461 4.46995C13.6994 3.67287 13.2616 2.93947 12.661 2.33896C12.0606 1.73848 11.3271 1.30055 10.5301 1.05388C9.77071 0.818904 9 1.38163 9 2.17649V4.8233C9 5.47318 9.52682 6 10.1767 6Z"
+        stroke="currentColor"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M5.2998 3.02679C2.83626 3.59696 1.00003 5.80495 1 8.44182C0.999974 11.5206 3.47944 14 6.55817 14C9.19503 14 11.403 12.1637 11.9732 9.7002C12.1222 9.05635 11.6304 8.44187 10.9695 8.44187H7.5874C7.01895 8.44187 6.55812 7.98104 6.55812 7.41259V4.03044C6.55812 3.36957 5.94364 2.87775 5.2998 3.02679Z"
+        stroke="currentColor"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};
+
+export default Sectors; 

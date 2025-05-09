@@ -1,0 +1,132 @@
+{
+  "Common": {
+    "hello": "Witaj świecie",
+    "readNow": "Czytaj więcej",
+    "checkNow": "Sprawdź teraz",
+    "sitemap": "Mapa strony",
+    "popular": "Popularne",
+    "homepage": "Strona główna",
+    "aboutUs": "O nas",
+    "services": "Serwis",
+    "support": "Wsparcie",
+    "distributors": "Dystrybutorzy",
+    "products": "Produkty",
+    "categories": "Kategorie",
+    "blog": "Blog",
+    "sectors": "Sektory",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Język",
+    "copyright": "COPYRIGHTS BY BEFARD 2025. ALL RIGHTS RESERVED.",
+    "privacyAndCookies": "Polityka prywatności i cookies",
+    "createdBy": "Created by",
+    "downloadSheet": "Pobierz kartę katalogową",
+    "rent": "Wynajmij",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "initialProductMessage": "Witam, proszę o kontakt w sprawie produktu ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Strona główna",
+    "aboutUs": "O nas",
+    "services": "Serwis",
+    "support": "Wsparcie",
+    "distributors": "Dystrybutorzy",
+    "products": "Produkty",
+    "categories": "Kategorie",
+    "blog": "Blog",
+    "sectors": "Sektory",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Język",
+    "rent": "Wynajmij"
+  },
+  "Categories": {
+    "header": "Kategorie",
+    "header_text": "Urządzenia podnoszące i manipulatory"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "Urządzenia <red>dźwigowe</red> i manipulatory",
+      "checkAll": "wszystkie kategorie",
+      "categories": "Kategorie"
+    },
+    "Products": {
+      "products": "Produkty",
+      "discover": "Odkryj nasze produkty",
+      "checkAll": "wszystkie produkty",
+      "categories": "Kategorie"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Świeże <red>wiadomości</red> od Befard",
+      "allNews": "wszystkie wiadomości"
+    }
+  },
+  "Contact": {
+    "contact": "Kontakt",
+    "header": "Skontaktuj się <red>z nami</red> teraz",
+    "name": "Imię",
+    "email": "Adres email",
+    "phone": "Telefon",
+    "message": "Wiadomość",
+    "rules": "Przeczytałem Politykę Prywatności i wyraźnie ją akceptuję",
+    "send": "Wyślij wiadomość",
+    "nameValidation": "Twoje imię musi mieć minimum dwa znaki",
+    "emailValidation": "Twój email musi mieć minimum 3 znaki",
+    "phoneValidation": "Twój numer telefonu musi mieć minimum 9 znaków",
+    "messageValidation": "Twoja wiadomość musi mieć minimum 10 znaków",
+    "rulesValidation": "Musisz zaakceptować politykę prywatności",
+    "yourName": "Twoje imię",
+    "yourEmail": "Twój adres email",
+    "yourPhone": "Twój numer telefonu",
+    "yourMessage": "Twoja wiadomość",
+    "findUs": "Znajdź nas!",
+    "writeUsWhatsApp": "Napisz do nas na WhatsApp",
+    "writeMessageWhatsApp": "Napisz wiadomość",
+    "initialMessageWhatsApp": "Witaj! 🤝 \nJak Ci możemy pomóc? ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "ourTeam": "Nasz zespół",
+    "Monday - Friday": "Poniedziałek - Piątek"
+  },
+  "News": {
+    "contentText": "Spis treści",
+    "seeMore": "Zobacz więcej",
+    "readMore": "Czytaj więcej",
+    "page": "Strona"
+  },
+  "Product": {
+    "specification": "Specyfikacja",
+    "seeAlso": "Zobacz więcej",
+    "readMore": "Czytaj więcej",
+    "moreQuestions": "Masz więcej pytań?",
+    "contactNow": "Skontaktuj się z nami!",
+    "technicalImages": "Rysunki techniczne"
+  },
+  "Reviews": {
+    "header": "Opinie o Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "Nasze produkty"
+  },
+  "Service": {
+    "header": "Serwis",
+    "prefix": "Serwis"
+  },
+  "Support": {
+    "header": "Wsparcie",
+    "prefix": "Wsparcie"
+  },
+  "Rent": {
+    "header": "Wynajmij"
+  }
+}

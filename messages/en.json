@@ -1,0 +1,130 @@
+{
+  "Common": {
+    "hello": "Hello World",
+    "readNow": "Read More",
+    "checkNow": "Check Now",
+    "sitemap": "Sitemap",
+    "popular": "Popular",
+    "homepage": "Homepage",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "support": "Support",
+    "distributors": "Distributors",
+    "products": "Products",
+    "categories": "Categories",
+    "blog": "Blog",
+    "sectors": "Sectors",
+    "contact": "Contact",
+    "logo": "Logo",
+    "language": "Language",
+    "copyright": "COPYRIGHTS BY BEFARD 2025. ALL RIGHTS RESERVED.",
+    "privacyAndCookies": "Privacy Policy and Cookies",
+    "createdBy": "Created by",
+    "downloadSheet": "Download Datasheet",
+    "rent": "Rent",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Hello, contact me",
+    "initialProductMessage": "Hello, contact me for the product ",
+    "contactWithWhatsApp": "Contact me via WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Homepage",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "support": "Support",
+    "distributors": "Distributors",
+    "products": "Products",
+    "categories": "Categories",
+    "blog": "Blog",
+    "sectors": "Sectors",
+    "contact": "Contact",
+    "logo": "Logo",
+    "language": "Language",
+    "rent": "Rent"
+  },
+  "Categories": {
+    "header": "Categories",
+    "header_text": "Lifting Devices and Manipulators"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "Lifting <red>Devices</red> and Manipulators",
+      "checkAll": "all categories",
+      "categories": "Categories"
+    },
+    "Products": {
+      "products": "Products",
+      "discover": "Discover our products",
+      "checkAll": "all products",
+      "categories": "Categories"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Fresh <red>News</red> from Befard",
+      "allNews": "all news"
+    }
+  },
+  "Contact": {
+    "contact": "Contact",
+    "header": "Contact <red>Us</red> Now",
+    "name": "Name",
+    "email": "Email Address",
+    "phone": "Phone",
+    "message": "Message",
+    "rules": "I have read the Privacy Policy and explicitly accept it",
+    "send": "Send Message",
+    "nameValidation": "Your name must have at least two characters",
+    "emailValidation": "Your email must have at least 3 characters",
+    "phoneValidation": "Your phone number must have at least 9 characters",
+    "messageValidation": "Your message must have at least 10 characters",
+    "rulesValidation": "You must accept the privacy policy",
+    "yourName": "Your name",
+    "yourEmail": "Your email address",
+    "yourPhone": "Your phone number",
+    "yourMessage": "Your message",
+    "findUs": "Find us!",
+    "writeUsWhatsApp": "Napisz do nas na WhatsApp",
+    "writeMessageWhatsApp": "Napisz wiadomość",
+    "initialMessageWhatsApp": "Witaj! 🤝 \nJak Ci możemy pomóc? ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "ourTeam": "Our Team"
+  },
+  "News": {
+    "contentText": "Table of Contents",
+    "seeMore": "See More",
+    "readMore": "Read More"
+  },
+  "Product": {
+    "specification": "Specification",
+    "seeAlso": "See More",
+    "readMore": "Read More",
+    "moreQuestions": "Have more questions?",
+    "contactNow": "Contact us now!",
+    "technicalImages": "Technical Drawings"
+  },
+  "Reviews": {
+    "header": "Reviews about Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "Our Products"
+  },
+  "Service": {
+    "header": "Service",
+    "prefix": "Service"
+  },
+  "Support": {
+    "header": "Support",
+    "prefix": "Support"
+  },
+  "Rent": {
+    "header": "Rent"
+  }
+}

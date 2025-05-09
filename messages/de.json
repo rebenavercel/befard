@@ -1,0 +1,130 @@
+{
+  "Common": {
+    "hello": "Hallo Welt",
+    "readNow": "Mehr lesen",
+    "checkNow": "Jetzt prüfen",
+    "sitemap": "Seitenübersicht",
+    "popular": "Beliebt",
+    "homepage": "Startseite",
+    "aboutUs": "Über uns",
+    "services": "Service",
+    "support": "Unterstützung",
+    "distributors": "Vertriebspartner",
+    "products": "Produkte",
+    "categories": "Kategorien",
+    "blog": "Blog",
+    "sectors": "Sektoren",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Sprache",
+    "copyright": "COPYRIGHT BY BEFARD 2025. ALLE RECHTE VORBEHALTEN.",
+    "privacyAndCookies": "Datenschutz und Cookies",
+    "createdBy": "Erstellt von",
+    "downloadSheet": "Datenblatt herunterladen",
+    "rent": "Mieten",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Hallo, kontaktieren Sie mich",
+    "initialProductMessage": "Hallo, kontaktieren Sie mich für das Produkt ",
+    "contactWithWhatsApp": "Kontaktieren Sie mich via WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Startseite",
+    "aboutUs": "Über uns",
+    "services": "Service",
+    "support": "Unterstützung",
+    "distributors": "Vertriebspartner",
+    "products": "Produkte",
+    "categories": "Kategorien",
+    "blog": "Blog",
+    "sectors": "Sektoren",
+    "contact": "Kontakt",
+    "logo": "Logo",
+    "language": "Sprache",
+    "rent": "Mieten"
+  },
+  "Categories": {
+    "header": "Kategorien",
+    "header_text": "Hebegeräte und Manipulatoren"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "<red>Hebegeräte</red> und Manipulatoren",
+      "checkAll": "alle Kategorien",
+      "categories": "Kategorien"
+    },
+    "Products": {
+      "products": "Produkte",
+      "discover": "Entdecken Sie unsere Produkte",
+      "checkAll": "alle Produkte",
+      "categories": "Kategorien"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Frische <red>Nachrichten</red> von Befard",
+      "allNews": "alle Nachrichten"
+    }
+  },
+  "Contact": {
+    "contact": "Kontakt",
+    "header": "Kontaktieren Sie <red>uns</red> jetzt",
+    "name": "Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefon",
+    "message": "Nachricht",
+    "rules": "Ich habe die Datenschutzrichtlinie gelesen und akzeptiere sie ausdrücklich",
+    "send": "Nachricht senden",
+    "nameValidation": "Ihr Name muss mindestens zwei Zeichen lang sein",
+    "emailValidation": "Ihre E-Mail muss mindestens 3 Zeichen lang sein",
+    "phoneValidation": "Ihre Telefonnummer muss mindestens 9 Zeichen lang sein",
+    "messageValidation": "Ihre Nachricht muss mindestens 10 Zeichen lang sein",
+    "rulesValidation": "Sie müssen die Datenschutzrichtlinie akzeptieren",
+    "yourName": "Ihr Name",
+    "yourEmail": "Ihre E-Mail-Adresse",
+    "yourPhone": "Ihre Telefonnummer",
+    "yourMessage": "Ihre Nachricht",
+    "findUs": "Finden Sie uns!",
+    "writeUsWhatsApp": "Napisz do nas na WhatsApp",
+    "writeMessageWhatsApp": "Napisz wiadomość",
+    "initialMessageWhatsApp": "Witaj! 🤝 \nJak Ci możemy pomóc? ",
+    "contactWithWhatsApp": "Skontakuj się przez WhatsApp",
+    "initialLinkMessage": "Witam, proszę o kontakt",
+    "ourTeam": "Unser Team"
+  },
+  "News": {
+    "contentText": "Inhalt",
+    "seeMore": "Mehr anzeigen",
+    "readMore": "Mehr lesen"
+  },
+  "Product": {
+    "specification": "Spezifikation",
+    "seeAlso": "Mehr anzeigen",
+    "readMore": "Mehr lesen",
+    "moreQuestions": "Haben Sie weitere Fragen?",
+    "contactNow": "Kontaktieren Sie uns jetzt!",
+    "technicalImages": "Technische Zeichnungen"
+  },
+  "Reviews": {
+    "header": "Bewertungen über Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "Unsere Produkte"
+  },
+  "Service": {
+    "header": "Service",
+    "prefix": "Service"
+  },
+  "Support": {
+    "header": "Unterstützung",
+    "prefix": "Unterstützung"
+  },
+  "Rent": {
+    "header": "Mieten"
+  }
+}

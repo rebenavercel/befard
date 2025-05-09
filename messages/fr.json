@@ -1,0 +1,130 @@
+{
+  "Common": {
+    "hello": "Bonjour!",
+    "readNow": "Lire maintenant",
+    "checkNow": "Vérifier maintenant",
+    "sitemap": "Plan du site",
+    "popular": "Populaires",
+    "homepage": "Accueil",
+    "aboutUs": "À propos de nous",
+    "services": "Services",
+    "support": "Support",
+    "distributors": "Distributeurs",
+    "products": "Produits",
+    "categories": "Catégories",
+    "blog": "Blog",
+    "sectors": "Secteurs",
+    "contact": "Contact",
+    "logo": "Logo",
+    "language": "Langue",
+    "copyright": "COPYRIGHTS BY BEFARD 2025. TOUS DROITS RESERVÉS.",
+    "privacyAndCookies": "Politique de confidentialité et cookies",
+    "createdBy": "Créé par",
+    "downloadSheet": "Télécharger le datasheet",
+    "rent": "Location",
+    "pl": "Polski",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "cs": "Čeština",
+    "sk": "Slovenský",
+    "initialLinkMessage": "Bonjour, veuillez me contacter",
+    "initialProductMessage": "Bonjour, veuillez me contacter pour le produit ",
+    "contactWithWhatsApp": "Contactez-moi via WhatsApp"
+  },
+  "Menu": {
+    "homepage": "Accueil",
+    "aboutUs": "À propos de nous",
+    "services": "Services",
+    "support": "Support",
+    "distributors": "Distributeurs",
+    "products": "Produits",
+    "categories": "Catégories",
+    "blog": "Blog",
+    "sectors": "Secteurs",
+    "contact": "Contact",
+    "logo": "Logo",
+    "language": "Langue",
+    "rent": "Location"
+  },
+  "Categories": {
+    "header": "Catégories",
+    "header_text": "Appareils de levage et manipulateurs"
+  },
+  "HomePage": {
+    "Category": {
+      "header": "Appareils de levage et manipulateurs",
+      "checkAll": "toutes les catégories",
+      "categories": "Catégories"
+    },
+    "Products": {
+      "products": "Produits",
+      "discover": "Découvrez nos produits",
+      "checkAll": "tous les produits",
+      "categories": "Catégories"
+    },
+    "News": {
+      "blog": "Blog",
+      "header": "Actualités <red>fraîches</red> de Befard",
+      "allNews": "toutes les actualités"
+    }
+  },
+  "Contact": {
+    "contact": "Contact",
+    "header": "Contactez-nous",
+    "name": "Nom",
+    "email": "Adresse email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "rules": "Je reconnais et accepte la politique de confidentialité",
+    "send": "Envoyer un message",
+    "nameValidation": "Votre nom doit comporter au moins deux caractères",
+    "emailValidation": "Votre adresse email doit comporter au moins 3 caractères",
+    "phoneValidation": "Votre numéro de téléphone doit comporter au moins 9 caractères",
+    "messageValidation": "Votre message doit comporter au moins 10 caractères",
+    "rulesValidation": "Vous devez accepter la politique de confidentialité",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre adresse email",
+    "yourPhone": "Votre numéro de téléphone",
+    "yourMessage": "Votre message",
+    "findUs": "Nous trouver!",
+    "writeUsWhatsApp": "Écrivez-nous sur WhatsApp",
+    "writeMessageWhatsApp": "Écrivez un message",
+    "initialMessageWhatsApp": "Bonjour! 🤝 \nComment pouvons-nous vous aider? ",
+    "contactWithWhatsApp": "Contactez-nous via WhatsApp",
+    "initialLinkMessage": "Bonjour, veuillez me contacter",
+    "ourTeam": "Notre équipe"
+  },
+  "News": {
+    "contentText": "Table des matières",
+    "seeMore": "Voir plus",
+    "readMore": "Lire plus"
+  },
+  "Product": {
+    "specification": "Spécifications",
+    "seeAlso": "Voir plus",
+    "readMore": "Lire plus",
+    "moreQuestions": "Vous avez plus de questions?",
+    "contactNow": "Contactez-nous maintenant!",
+    "technicalImages": "Dessins techniques"
+  },
+  "Reviews": {
+    "header": "Avis sur Befard"
+  },
+  "AboutUs": {
+    "ourProducts": "Nos produits"
+  },
+  "Service": {
+    "header": "Service",
+    "prefix": "Service"
+  },
+  "Support": {
+    "header": "Support",
+    "prefix": "Support"
+  },
+  "Rent": {
+    "header": "Location"
+  }
+}
